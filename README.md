@@ -1,4 +1,13 @@
 # ErNurPs_bot
-Create a Chatbot with Dialogflow , database , python , and line 
 
-Project file for learning about chatbot
+Project นี้เป็นหนึ่งในวิชา Exploratory Project in Computing
+ประกอบด้วยสมาชิกดังนี้
+1 นางสาวกัญญาภัค  ปิ่นใจ
+2 นางสาวอรปรียา  ศรีทราย
+3 นายสิรภพ เนื่องพุกก์
+และผู้ให้คำปรึกษา 
+นายธนภัทร นันทสิริโยธิน
+ดร.อดิศักดิ์ สุภีสุน
+
+
+
