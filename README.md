@@ -1,6 +1,6 @@
 # ErNurPs_bot
 
-Project นี้เป็นหนึ่งในวิชา Exploratory Project in Computing
+                                                                Project นี้เป็นหนึ่งในวิชา Exploratory Project in Computing
 ประกอบด้วยสมาชิกดังนี้
 1 นางสาวกัญญาภัค  ปิ่นใจ
 2 นางสาวอรปรียา  ศรีทราย
