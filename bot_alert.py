@@ -31,7 +31,7 @@ cur = conn.cursor()
 
 
 url = 'https://api.line.me/v2/bot/message/push'
-token = 'nCoKhFPlcTjrTDBKD50sEDFEaQdetDP6a08hbh9w5ipumWFYuy1PU6fK6QanLWmzagQtYw6kBHrwVHTe/NtQzFxPo/qOChEboPRNJ5q8KCh4qoptMe8j6jWClyu2yNy8Y3XzEsccPx0QkM5+xao6AgdB04t89/1O/w1cDnyilFU='
+token = 'TOKEN LINE' 
 
 now = datetime.datetime.now()
 tomorrow = datetime.datetime(now.year,now.month,now.day+1)
