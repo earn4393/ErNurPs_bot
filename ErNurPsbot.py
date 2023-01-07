@@ -51,7 +51,7 @@ def generating_answer(question):
     hm = "127.0.0.1"
     dbm = "project"
     usm = "postgres"
-    pwm = "12345678" #เป็นการเชื่อมต่อบนเครื่องของตัวเอง
+    pwm = "your password" #เป็นการเชื่อมต่อบนเครื่องของตัวเอง
 
     # ตัวเชื่อมต่อกับฐานข้อมูล
     con = psycopg2.connect(host = h, database = db, user = us, password = pw,port=5432)
