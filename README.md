@@ -12,6 +12,7 @@
   - Dialogflow
   - Python
   - PostgreSQL
+  - LINE Developers
   
   ## Developer List
   6230300052 Kanyapak PINJAI email : kanyapak.pin@ku.th
